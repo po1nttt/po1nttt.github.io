@@ -14,7 +14,7 @@
       
         <tags>
             
-            <tag> Java CTF </tag>
+            <tag> Java </tag>
             
         </tags>
       
@@ -30,12 +30,12 @@
         <content type="html"><![CDATA[<h1 id="hi"><a href="#hi" class="headerlink" title="hi"></a>hi</h1><p>很高兴认识你！6ww！</p>]]></content>
       
       
+      <categories>
+          
+          <category> life </category>
+          
+      </categories>
       
-        <tags>
-            
-            <tag> things </tag>
-            
-        </tags>
       
     </entry>
     
